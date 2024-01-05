@@ -13,7 +13,7 @@ let resume = {
         },
 
         "SocialHandle" : {
-             "LinkedIn" : "hdgh",
+             "LinkedIn" : "https://www.linkedin.com/in/sabari-sam-1747751a6",
         },
 
         "Contact" : {
